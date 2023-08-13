@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background-color: black;
+}
+
+.navigation{
+    background-color: black;
+}
+
+li{
+    display: inline-block;
+    margin-left: 29rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #43c584;
+
+}
+
+
+.content{
+    height: 100%;
+}
+
+.welcome{
+    background-color: #43c584;
+    height: 10vh;
+    width: 10vw;
+}
+
+.footer{
+    background-color: #43c584;
+    height: 35%;
+}
+
+
+
